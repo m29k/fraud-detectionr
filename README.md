@@ -26,11 +26,7 @@ Part of the analysis, Here are some of the merchants prone to being hacked using
 
 :five: Sweeney-Paul
 
-There are two notebook files have been attached with details analysis!
 
-:warning:Before run the both notebook files, please check and update the DB connection link with your DB username
-
-`postgresql://postgres:`<b>`Admin`</b>`@localhost:5432/fraud_detection`
 
 When comparing cardholder IDs 2 and 18, cardholder 18 consumption patten has unusual hikes which can potentially be fradulent transactions comparing to cardholder ID 2
 
